@@ -35,6 +35,5 @@ A smart task recommendation system that uses AI-powered rules to automatically p
 3. Compile the project:
 
 ```bash
-java WorkItemGUI (for Gui testing)
-```bash
-java TaskPrioritizerApp  (For CLI version)
+java WorkItemGUI "(for Gui testing)"
+java TaskPrioritizerApp  "(For CLI version)"
